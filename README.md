@@ -45,3 +45,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Linking other pages
+
+```
+[Example recipe](https://renana.github.io/github102-room-7/recipe-example)
+```
+
+[Example recipe](https://renana.github.io/github102-room-7/recipe-example)
